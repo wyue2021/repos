@@ -11,6 +11,7 @@
 #     print Febonacci(3)
 import time
 
+
 result_dict = {}
 def Febonacci_optimized(n):
     if n not in result_dict:
